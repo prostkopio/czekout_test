@@ -2,3 +2,4 @@ Some nice text
 # line from local feature
 # line from local main
 # wondering where this change will go
+# question: if I create local branch, will it be automatically propagated into remote?
